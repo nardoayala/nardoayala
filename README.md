@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![@nardoyala twitter cover](https://pbs.twimg.com/profile_banners/90551432/1622033188/1500x500)
 
 
