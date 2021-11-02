@@ -9,7 +9,7 @@
 
 ### 🔨 What I do
 
-Working full time in React, main frontend developer at Fivent. Also experienced with Vue, HUGO, CSS pre-procesors (SASS, LESS and Stylus), WordPress, Python and Django.
+Working full time creating custom Shopify themes, frontend developer at Underwaterpistol. Also experienced with React, HUGO, CSS pre-procesors (SASS, LESS and Stylus), WordPress, Python and Django.
 
 I'm passionate about solving problems in creative ways. I'm a frontend developer who never stops learning new things. I'm looking forward becoming a fullstack developer in the near future.
 
