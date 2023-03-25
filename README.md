@@ -22,5 +22,5 @@ I also do stand up comedy when I have the chance. Making people laugh is my othe
 - [Website](https://bernardoayala.com) 🌍
 
 
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nardoyala&theme=dracula)
-![My stats](https://github-readme-stats.vercel.app/api?username=nardoyala&count_private=true&show_icons=true&theme=dracula)
+![Top Lang](https://github-readme-stats-74wp3b072-nardoyala.vercel.app/api/top-langs/?username=nardoyala&theme=dracula)
+![My stats](https://github-readme-stats-74wp3b072-nardoyala.vercel.app/api?username=nardoyala&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)
